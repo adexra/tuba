@@ -1,0 +1,5 @@
+streamlit
+openai
+pyairtable
+python-telegram-bot==20.*
+pandas
